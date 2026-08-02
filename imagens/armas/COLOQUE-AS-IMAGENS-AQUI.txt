@@ -1,0 +1,1 @@
+Coloque aqui as imagens das armas. Consulte os nomes no LEIA-ME.txt ou no bloco weaponImages do index.html.

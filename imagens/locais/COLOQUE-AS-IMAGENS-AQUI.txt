@@ -1,0 +1,1 @@
+Coloque aqui as imagens dos locais. Consulte os nomes no LEIA-ME.txt ou no bloco placeImages do index.html.
